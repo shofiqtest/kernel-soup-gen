@@ -1,0 +1,6 @@
+# No external dependencies required.
+# kernel-soup-gen uses Python 3.8+ standard library only.
+#
+# System requirements (must be installed separately):
+#   - git       (for commit history extraction)
+#   - perl      (for scripts/get_maintainer.pl, included in Linux kernel tree)
